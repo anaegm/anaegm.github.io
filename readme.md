@@ -1,3 +1,3 @@
 This is another test.
 
-- Third set of changes.
+This is a new set of changes.
